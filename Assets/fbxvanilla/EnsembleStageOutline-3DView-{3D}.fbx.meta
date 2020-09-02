@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 120caed120d6c2a4aae427e0505025be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Assembled Stair Stair [369741]
+    100004: Assembled Stair Stair [369741]_[369813]
+    100006: Assembled Stair Stair [369741]_[369815]
+    100008: Assembled Stair Stair [369741]_[369903]
+    100010: Assembled Stair Stair [369909]
+    100012: Assembled Stair Stair [369909]_[369975]
+    100014: Assembled Stair Stair [369909]_[369977]
+    100016: Assembled Stair Stair [369909]_[369978]
+    100018: Basic Wall Generic - 8" [367493]
+    100020: Basic Wall Generic - 8" [367668]
+    100022: Basic Wall Generic - 8" [368077]
+    100024: Basic Wall Generic - 8" [368748]
+    100026: Basic Wall Generic - 8" [369016]
+    100028: Basic Wall Generic - 8" [369185]
+    100030: Basic Wall Generic - 8" [369357]
+    100032: Basic Wall Generic - 8" [371948]
+    100034: Basic Wall Generic - 8" [372127]
+    100036: Basic Wall Generic - 8" [372415]
+    100038: Basic Wall Generic - 8" [372524]
+    100040: Basic Wall Generic - 8" [372738]
+    100042: Basic Wall Generic - 8" [372825]
+    100044: Basic Wall Generic - 8" [372902]
+    100046: Basic Wall Generic - 8" [373017]
+    100048: Basic Wall Generic - 8" [373062]
+    100050: Basic Wall Generic - 8" [373143]
+    100052: Basic Wall Generic - 8" [373210]
+    100054: Basic Wall Generic - 8" [373278]
+    100056: Basic Wall Generic - 8" [375141]
+    100058: Basic Wall Generic - 8" [375238]
+    100060: Basic Wall Generic - 8" [375823]
+    100062: //RootNode
+    100064: Floor Generic - 12" [370061]
+    100066: Level Floor [30]
+    100068: Level Stage [366535]
+    100070: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369813]
+    100072: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369975]
+    100074: Railing Handrail - Rectangular [363177]
+    100076: Railing Handrail - Rectangular [363177]_[377382]
+    100078: Railing Handrail - Rectangular [363177]_[377382] 1
+    100080: Railing Handrail - Rectangular [363177]_[377382] 10
+    100082: Railing Handrail - Rectangular [363177]_[377382] 11
+    100084: Railing Handrail - Rectangular [363177]_[377382] 12
+    100086: Railing Handrail - Rectangular [363177]_[377382] 13
+    100088: Railing Handrail - Rectangular [363177]_[377382] 14
+    100090: Railing Handrail - Rectangular [363177]_[377382] 15
+    100092: Railing Handrail - Rectangular [363177]_[377382] 16
+    100094: Railing Handrail - Rectangular [363177]_[377382] 17
+    100096: Railing Handrail - Rectangular [363177]_[377382] 18
+    100098: Railing Handrail - Rectangular [363177]_[377382] 19
+    100100: Railing Handrail - Rectangular [363177]_[377382] 2
+    100102: Railing Handrail - Rectangular [363177]_[377382] 20
+    100104: Railing Handrail - Rectangular [363177]_[377382] 21
+    100106: Railing Handrail - Rectangular [363177]_[377382] 22
+    100108: Railing Handrail - Rectangular [363177]_[377382] 23
+    100110: Railing Handrail - Rectangular [363177]_[377382] 24
+    100112: Railing Handrail - Rectangular [363177]_[377382] 25
+    100114: Railing Handrail - Rectangular [363177]_[377382] 26
+    100116: Railing Handrail - Rectangular [363177]_[377382] 27
+    100118: Railing Handrail - Rectangular [363177]_[377382] 28
+    100120: Railing Handrail - Rectangular [363177]_[377382] 29
+    100122: Railing Handrail - Rectangular [363177]_[377382] 3
+    100124: Railing Handrail - Rectangular [363177]_[377382] 30
+    100126: Railing Handrail - Rectangular [363177]_[377382] 31
+    100128: Railing Handrail - Rectangular [363177]_[377382] 32
+    100130: Railing Handrail - Rectangular [363177]_[377382] 33
+    100132: Railing Handrail - Rectangular [363177]_[377382] 34
+    100134: Railing Handrail - Rectangular [363177]_[377382] 35
+    100136: Railing Handrail - Rectangular [363177]_[377382] 36
+    100138: Railing Handrail - Rectangular [363177]_[377382] 37
+    100140: Railing Handrail - Rectangular [363177]_[377382] 38
+    100142: Railing Handrail - Rectangular [363177]_[377382] 39
+    100144: Railing Handrail - Rectangular [363177]_[377382] 4
+    100146: Railing Handrail - Rectangular [363177]_[377382] 40
+    100148: Railing Handrail - Rectangular [363177]_[377382] 41
+    100150: Railing Handrail - Rectangular [363177]_[377382] 42
+    100152: Railing Handrail - Rectangular [363177]_[377382] 43
+    100154: Railing Handrail - Rectangular [363177]_[377382] 44
+    100156: Railing Handrail - Rectangular [363177]_[377382] 5
+    100158: Railing Handrail - Rectangular [363177]_[377382] 6
+    100160: Railing Handrail - Rectangular [363177]_[377382] 7
+    100162: Railing Handrail - Rectangular [363177]_[377382] 8
+    100164: Railing Handrail - Rectangular [363177]_[377382] 9
+    100166: Railing Handrail - Rectangular [369832]
+    100168: Railing Handrail - Rectangular [369832]_[377384]
+    100170: Railing Handrail - Rectangular [369832]_[377386]
+    100172: Railing Handrail - Rectangular [369832]_[377388]
+    100174: Railing Handrail - Rectangular [369990]
+    100176: Railing Handrail - Rectangular [369990]_[377384]
+    100178: Railing Handrail - Rectangular [369990]_[377386]
+    100180: Railing Handrail - Rectangular [369990]_[377388]
+    100182: Single-Flush 36" x 84" [376844]
+    100184: Single-Flush 36" x 84" [376968]
+    100186: Stringer Stringer - 2" Width [369815]
+    100188: Stringer Stringer - 2" Width [369903]
+    100190: Stringer Stringer - 2" Width [369977]
+    100192: Stringer Stringer - 2" Width [369978]
+    100194: Top Rail Type Rectangular - 2" x 2" [366497]
+    100196: Top Rail Type Rectangular - 2" x 2" [369842]
+    100198: Top Rail Type Rectangular - 2" x 2" [370007]
+    400000: '3D View: {3D}'
+    400002: Assembled Stair Stair [369741]
+    400004: Assembled Stair Stair [369741]_[369813]
+    400006: Assembled Stair Stair [369741]_[369815]
+    400008: Assembled Stair Stair [369741]_[369903]
+    400010: Assembled Stair Stair [369909]
+    400012: Assembled Stair Stair [369909]_[369975]
+    400014: Assembled Stair Stair [369909]_[369977]
+    400016: Assembled Stair Stair [369909]_[369978]
+    400018: Basic Wall Generic - 8" [367493]
+    400020: Basic Wall Generic - 8" [367668]
+    400022: Basic Wall Generic - 8" [368077]
+    400024: Basic Wall Generic - 8" [368748]
+    400026: Basic Wall Generic - 8" [369016]
+    400028: Basic Wall Generic - 8" [369185]
+    400030: Basic Wall Generic - 8" [369357]
+    400032: Basic Wall Generic - 8" [371948]
+    400034: Basic Wall Generic - 8" [372127]
+    400036: Basic Wall Generic - 8" [372415]
+    400038: Basic Wall Generic - 8" [372524]
+    400040: Basic Wall Generic - 8" [372738]
+    400042: Basic Wall Generic - 8" [372825]
+    400044: Basic Wall Generic - 8" [372902]
+    400046: Basic Wall Generic - 8" [373017]
+    400048: Basic Wall Generic - 8" [373062]
+    400050: Basic Wall Generic - 8" [373143]
+    400052: Basic Wall Generic - 8" [373210]
+    400054: Basic Wall Generic - 8" [373278]
+    400056: Basic Wall Generic - 8" [375141]
+    400058: Basic Wall Generic - 8" [375238]
+    400060: Basic Wall Generic - 8" [375823]
+    400062: //RootNode
+    400064: Floor Generic - 12" [370061]
+    400066: Level Floor [30]
+    400068: Level Stage [366535]
+    400070: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369813]
+    400072: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369975]
+    400074: Railing Handrail - Rectangular [363177]
+    400076: Railing Handrail - Rectangular [363177]_[377382]
+    400078: Railing Handrail - Rectangular [363177]_[377382] 1
+    400080: Railing Handrail - Rectangular [363177]_[377382] 10
+    400082: Railing Handrail - Rectangular [363177]_[377382] 11
+    400084: Railing Handrail - Rectangular [363177]_[377382] 12
+    400086: Railing Handrail - Rectangular [363177]_[377382] 13
+    400088: Railing Handrail - Rectangular [363177]_[377382] 14
+    400090: Railing Handrail - Rectangular [363177]_[377382] 15
+    400092: Railing Handrail - Rectangular [363177]_[377382] 16
+    400094: Railing Handrail - Rectangular [363177]_[377382] 17
+    400096: Railing Handrail - Rectangular [363177]_[377382] 18
+    400098: Railing Handrail - Rectangular [363177]_[377382] 19
+    400100: Railing Handrail - Rectangular [363177]_[377382] 2
+    400102: Railing Handrail - Rectangular [363177]_[377382] 20
+    400104: Railing Handrail - Rectangular [363177]_[377382] 21
+    400106: Railing Handrail - Rectangular [363177]_[377382] 22
+    400108: Railing Handrail - Rectangular [363177]_[377382] 23
+    400110: Railing Handrail - Rectangular [363177]_[377382] 24
+    400112: Railing Handrail - Rectangular [363177]_[377382] 25
+    400114: Railing Handrail - Rectangular [363177]_[377382] 26
+    400116: Railing Handrail - Rectangular [363177]_[377382] 27
+    400118: Railing Handrail - Rectangular [363177]_[377382] 28
+    400120: Railing Handrail - Rectangular [363177]_[377382] 29
+    400122: Railing Handrail - Rectangular [363177]_[377382] 3
+    400124: Railing Handrail - Rectangular [363177]_[377382] 30
+    400126: Railing Handrail - Rectangular [363177]_[377382] 31
+    400128: Railing Handrail - Rectangular [363177]_[377382] 32
+    400130: Railing Handrail - Rectangular [363177]_[377382] 33
+    400132: Railing Handrail - Rectangular [363177]_[377382] 34
+    400134: Railing Handrail - Rectangular [363177]_[377382] 35
+    400136: Railing Handrail - Rectangular [363177]_[377382] 36
+    400138: Railing Handrail - Rectangular [363177]_[377382] 37
+    400140: Railing Handrail - Rectangular [363177]_[377382] 38
+    400142: Railing Handrail - Rectangular [363177]_[377382] 39
+    400144: Railing Handrail - Rectangular [363177]_[377382] 4
+    400146: Railing Handrail - Rectangular [363177]_[377382] 40
+    400148: Railing Handrail - Rectangular [363177]_[377382] 41
+    400150: Railing Handrail - Rectangular [363177]_[377382] 42
+    400152: Railing Handrail - Rectangular [363177]_[377382] 43
+    400154: Railing Handrail - Rectangular [363177]_[377382] 44
+    400156: Railing Handrail - Rectangular [363177]_[377382] 5
+    400158: Railing Handrail - Rectangular [363177]_[377382] 6
+    400160: Railing Handrail - Rectangular [363177]_[377382] 7
+    400162: Railing Handrail - Rectangular [363177]_[377382] 8
+    400164: Railing Handrail - Rectangular [363177]_[377382] 9
+    400166: Railing Handrail - Rectangular [369832]
+    400168: Railing Handrail - Rectangular [369832]_[377384]
+    400170: Railing Handrail - Rectangular [369832]_[377386]
+    400172: Railing Handrail - Rectangular [369832]_[377388]
+    400174: Railing Handrail - Rectangular [369990]
+    400176: Railing Handrail - Rectangular [369990]_[377384]
+    400178: Railing Handrail - Rectangular [369990]_[377386]
+    400180: Railing Handrail - Rectangular [369990]_[377388]
+    400182: Single-Flush 36" x 84" [376844]
+    400184: Single-Flush 36" x 84" [376968]
+    400186: Stringer Stringer - 2" Width [369815]
+    400188: Stringer Stringer - 2" Width [369903]
+    400190: Stringer Stringer - 2" Width [369977]
+    400192: Stringer Stringer - 2" Width [369978]
+    400194: Top Rail Type Rectangular - 2" x 2" [366497]
+    400196: Top Rail Type Rectangular - 2" x 2" [369842]
+    400198: Top Rail Type Rectangular - 2" x 2" [370007]
+    2000000: '3D View: {3D}'
+    2100000: No Name
+    2300000: Assembled Stair Stair [369741]_[369813]
+    2300002: Assembled Stair Stair [369741]_[369815]
+    2300004: Assembled Stair Stair [369741]_[369903]
+    2300006: Assembled Stair Stair [369909]_[369975]
+    2300008: Assembled Stair Stair [369909]_[369977]
+    2300010: Assembled Stair Stair [369909]_[369978]
+    2300012: Basic Wall Generic - 8" [367493]
+    2300014: Basic Wall Generic - 8" [367668]
+    2300016: Basic Wall Generic - 8" [368077]
+    2300018: Basic Wall Generic - 8" [368748]
+    2300020: Basic Wall Generic - 8" [369016]
+    2300022: Basic Wall Generic - 8" [369185]
+    2300024: Basic Wall Generic - 8" [369357]
+    2300026: Basic Wall Generic - 8" [371948]
+    2300028: Basic Wall Generic - 8" [372127]
+    2300030: Basic Wall Generic - 8" [372415]
+    2300032: Basic Wall Generic - 8" [372524]
+    2300034: Basic Wall Generic - 8" [372738]
+    2300036: Basic Wall Generic - 8" [372825]
+    2300038: Basic Wall Generic - 8" [372902]
+    2300040: Basic Wall Generic - 8" [373017]
+    2300042: Basic Wall Generic - 8" [373062]
+    2300044: Basic Wall Generic - 8" [373143]
+    2300046: Basic Wall Generic - 8" [373210]
+    2300048: Basic Wall Generic - 8" [373278]
+    2300050: Basic Wall Generic - 8" [375141]
+    2300052: Basic Wall Generic - 8" [375238]
+    2300054: Basic Wall Generic - 8" [375823]
+    2300056: Floor Generic - 12" [370061]
+    2300058: Level Floor [30]
+    2300060: Level Stage [366535]
+    2300062: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369813]
+    2300064: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369975]
+    2300066: Railing Handrail - Rectangular [363177]_[377382]
+    2300068: Railing Handrail - Rectangular [363177]_[377382] 1
+    2300070: Railing Handrail - Rectangular [363177]_[377382] 10
+    2300072: Railing Handrail - Rectangular [363177]_[377382] 11
+    2300074: Railing Handrail - Rectangular [363177]_[377382] 12
+    2300076: Railing Handrail - Rectangular [363177]_[377382] 13
+    2300078: Railing Handrail - Rectangular [363177]_[377382] 14
+    2300080: Railing Handrail - Rectangular [363177]_[377382] 15
+    2300082: Railing Handrail - Rectangular [363177]_[377382] 16
+    2300084: Railing Handrail - Rectangular [363177]_[377382] 17
+    2300086: Railing Handrail - Rectangular [363177]_[377382] 18
+    2300088: Railing Handrail - Rectangular [363177]_[377382] 19
+    2300090: Railing Handrail - Rectangular [363177]_[377382] 2
+    2300092: Railing Handrail - Rectangular [363177]_[377382] 20
+    2300094: Railing Handrail - Rectangular [363177]_[377382] 21
+    2300096: Railing Handrail - Rectangular [363177]_[377382] 22
+    2300098: Railing Handrail - Rectangular [363177]_[377382] 23
+    2300100: Railing Handrail - Rectangular [363177]_[377382] 24
+    2300102: Railing Handrail - Rectangular [363177]_[377382] 25
+    2300104: Railing Handrail - Rectangular [363177]_[377382] 26
+    2300106: Railing Handrail - Rectangular [363177]_[377382] 27
+    2300108: Railing Handrail - Rectangular [363177]_[377382] 28
+    2300110: Railing Handrail - Rectangular [363177]_[377382] 29
+    2300112: Railing Handrail - Rectangular [363177]_[377382] 3
+    2300114: Railing Handrail - Rectangular [363177]_[377382] 30
+    2300116: Railing Handrail - Rectangular [363177]_[377382] 31
+    2300118: Railing Handrail - Rectangular [363177]_[377382] 32
+    2300120: Railing Handrail - Rectangular [363177]_[377382] 33
+    2300122: Railing Handrail - Rectangular [363177]_[377382] 34
+    2300124: Railing Handrail - Rectangular [363177]_[377382] 35
+    2300126: Railing Handrail - Rectangular [363177]_[377382] 36
+    2300128: Railing Handrail - Rectangular [363177]_[377382] 37
+    2300130: Railing Handrail - Rectangular [363177]_[377382] 38
+    2300132: Railing Handrail - Rectangular [363177]_[377382] 39
+    2300134: Railing Handrail - Rectangular [363177]_[377382] 4
+    2300136: Railing Handrail - Rectangular [363177]_[377382] 40
+    2300138: Railing Handrail - Rectangular [363177]_[377382] 41
+    2300140: Railing Handrail - Rectangular [363177]_[377382] 42
+    2300142: Railing Handrail - Rectangular [363177]_[377382] 43
+    2300144: Railing Handrail - Rectangular [363177]_[377382] 44
+    2300146: Railing Handrail - Rectangular [363177]_[377382] 5
+    2300148: Railing Handrail - Rectangular [363177]_[377382] 6
+    2300150: Railing Handrail - Rectangular [363177]_[377382] 7
+    2300152: Railing Handrail - Rectangular [363177]_[377382] 8
+    2300154: Railing Handrail - Rectangular [363177]_[377382] 9
+    2300156: Railing Handrail - Rectangular [369832]_[377384]
+    2300158: Railing Handrail - Rectangular [369832]_[377386]
+    2300160: Railing Handrail - Rectangular [369832]_[377388]
+    2300162: Railing Handrail - Rectangular [369990]_[377384]
+    2300164: Railing Handrail - Rectangular [369990]_[377386]
+    2300166: Railing Handrail - Rectangular [369990]_[377388]
+    2300168: Single-Flush 36" x 84" [376844]
+    2300170: Single-Flush 36" x 84" [376968]
+    2300172: Stringer Stringer - 2" Width [369815]
+    2300174: Stringer Stringer - 2" Width [369903]
+    2300176: Stringer Stringer - 2" Width [369977]
+    2300178: Stringer Stringer - 2" Width [369978]
+    2300180: Top Rail Type Rectangular - 2" x 2" [366497]
+    2300182: Top Rail Type Rectangular - 2" x 2" [369842]
+    2300184: Top Rail Type Rectangular - 2" x 2" [370007]
+    3300000: Assembled Stair Stair [369741]_[369813]
+    3300002: Assembled Stair Stair [369741]_[369815]
+    3300004: Assembled Stair Stair [369741]_[369903]
+    3300006: Assembled Stair Stair [369909]_[369975]
+    3300008: Assembled Stair Stair [369909]_[369977]
+    3300010: Assembled Stair Stair [369909]_[369978]
+    3300012: Basic Wall Generic - 8" [367493]
+    3300014: Basic Wall Generic - 8" [367668]
+    3300016: Basic Wall Generic - 8" [368077]
+    3300018: Basic Wall Generic - 8" [368748]
+    3300020: Basic Wall Generic - 8" [369016]
+    3300022: Basic Wall Generic - 8" [369185]
+    3300024: Basic Wall Generic - 8" [369357]
+    3300026: Basic Wall Generic - 8" [371948]
+    3300028: Basic Wall Generic - 8" [372127]
+    3300030: Basic Wall Generic - 8" [372415]
+    3300032: Basic Wall Generic - 8" [372524]
+    3300034: Basic Wall Generic - 8" [372738]
+    3300036: Basic Wall Generic - 8" [372825]
+    3300038: Basic Wall Generic - 8" [372902]
+    3300040: Basic Wall Generic - 8" [373017]
+    3300042: Basic Wall Generic - 8" [373062]
+    3300044: Basic Wall Generic - 8" [373143]
+    3300046: Basic Wall Generic - 8" [373210]
+    3300048: Basic Wall Generic - 8" [373278]
+    3300050: Basic Wall Generic - 8" [375141]
+    3300052: Basic Wall Generic - 8" [375238]
+    3300054: Basic Wall Generic - 8" [375823]
+    3300056: Floor Generic - 12" [370061]
+    3300058: Level Floor [30]
+    3300060: Level Stage [366535]
+    3300062: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369813]
+    3300064: Non-Monolithic Run 2" Tread 1" Nosing 1/4" Riser [369975]
+    3300066: Railing Handrail - Rectangular [363177]_[377382]
+    3300068: Railing Handrail - Rectangular [363177]_[377382] 1
+    3300070: Railing Handrail - Rectangular [363177]_[377382] 10
+    3300072: Railing Handrail - Rectangular [363177]_[377382] 11
+    3300074: Railing Handrail - Rectangular [363177]_[377382] 12
+    3300076: Railing Handrail - Rectangular [363177]_[377382] 13
+    3300078: Railing Handrail - Rectangular [363177]_[377382] 14
+    3300080: Railing Handrail - Rectangular [363177]_[377382] 15
+    3300082: Railing Handrail - Rectangular [363177]_[377382] 16
+    3300084: Railing Handrail - Rectangular [363177]_[377382] 17
+    3300086: Railing Handrail - Rectangular [363177]_[377382] 18
+    3300088: Railing Handrail - Rectangular [363177]_[377382] 19
+    3300090: Railing Handrail - Rectangular [363177]_[377382] 2
+    3300092: Railing Handrail - Rectangular [363177]_[377382] 20
+    3300094: Railing Handrail - Rectangular [363177]_[377382] 21
+    3300096: Railing Handrail - Rectangular [363177]_[377382] 22
+    3300098: Railing Handrail - Rectangular [363177]_[377382] 23
+    3300100: Railing Handrail - Rectangular [363177]_[377382] 24
+    3300102: Railing Handrail - Rectangular [363177]_[377382] 25
+    3300104: Railing Handrail - Rectangular [363177]_[377382] 26
+    3300106: Railing Handrail - Rectangular [363177]_[377382] 27
+    3300108: Railing Handrail - Rectangular [363177]_[377382] 28
+    3300110: Railing Handrail - Rectangular [363177]_[377382] 29
+    3300112: Railing Handrail - Rectangular [363177]_[377382] 3
+    3300114: Railing Handrail - Rectangular [363177]_[377382] 30
+    3300116: Railing Handrail - Rectangular [363177]_[377382] 31
+    3300118: Railing Handrail - Rectangular [363177]_[377382] 32
+    3300120: Railing Handrail - Rectangular [363177]_[377382] 33
+    3300122: Railing Handrail - Rectangular [363177]_[377382] 34
+    3300124: Railing Handrail - Rectangular [363177]_[377382] 35
+    3300126: Railing Handrail - Rectangular [363177]_[377382] 36
+    3300128: Railing Handrail - Rectangular [363177]_[377382] 37
+    3300130: Railing Handrail - Rectangular [363177]_[377382] 38
+    3300132: Railing Handrail - Rectangular [363177]_[377382] 39
+    3300134: Railing Handrail - Rectangular [363177]_[377382] 4
+    3300136: Railing Handrail - Rectangular [363177]_[377382] 40
+    3300138: Railing Handrail - Rectangular [363177]_[377382] 41
+    3300140: Railing Handrail - Rectangular [363177]_[377382] 42
+    3300142: Railing Handrail - Rectangular [363177]_[377382] 43
+    3300144: Railing Handrail - Rectangular [363177]_[377382] 44
+    3300146: Railing Handrail - Rectangular [363177]_[377382] 5
+    3300148: Railing Handrail - Rectangular [363177]_[377382] 6
+    3300150: Railing Handrail - Rectangular [363177]_[377382] 7
+    3300152: Railing Handrail - Rectangular [363177]_[377382] 8
+    3300154: Railing Handrail - Rectangular [363177]_[377382] 9
+    3300156: Railing Handrail - Rectangular [369832]_[377384]
+    3300158: Railing Handrail - Rectangular [369832]_[377386]
+    3300160: Railing Handrail - Rectangular [369832]_[377388]
+    3300162: Railing Handrail - Rectangular [369990]_[377384]
+    3300164: Railing Handrail - Rectangular [369990]_[377386]
+    3300166: Railing Handrail - Rectangular [369990]_[377388]
+    3300168: Single-Flush 36" x 84" [376844]
+    3300170: Single-Flush 36" x 84" [376968]
+    3300172: Stringer Stringer - 2" Width [369815]
+    3300174: Stringer Stringer - 2" Width [369903]
+    3300176: Stringer Stringer - 2" Width [369977]
+    3300178: Stringer Stringer - 2" Width [369978]
+    3300180: Top Rail Type Rectangular - 2" x 2" [366497]
+    3300182: Top Rail Type Rectangular - 2" x 2" [369842]
+    3300184: Top Rail Type Rectangular - 2" x 2" [370007]
+    4300000: Railing Handrail - Rectangular [363177]_[377382]
+    4300002: Top Rail Type Rectangular - 2" x 2" [366497]
+    4300004: Basic Wall Generic - 8" [367493]
+    4300006: Basic Wall Generic - 8" [367668]
+    4300008: Basic Wall Generic - 8" [368077]
+    4300010: Basic Wall Generic - 8" [368748]
+    4300012: Basic Wall Generic - 8" [369016]
+    4300014: Basic Wall Generic - 8" [369185]
+    4300016: Basic Wall Generic - 8" [369357]
+    4300018: Assembled Stair Stair [369741]_[369903]
+    4300020: Assembled Stair Stair [369741]_[369815]
+    4300022: Assembled Stair Stair [369741]_[369813]
+    4300024: Stringer Stringer - 2" Width [369815]
+    4300026: Railing Handrail - Rectangular [369832]_[377388]
+    4300028: Railing Handrail - Rectangular [369832]_[377386]
+    4300030: Railing Handrail - Rectangular [369832]_[377384]
+    4300032: Top Rail Type Rectangular - 2" x 2" [369842]
+    4300034: Stringer Stringer - 2" Width [369903]
+    4300036: Assembled Stair Stair [369909]_[369978]
+    4300038: Assembled Stair Stair [369909]_[369977]
+    4300040: Assembled Stair Stair [369909]_[369975]
+    4300042: Stringer Stringer - 2" Width [369977]
+    4300044: Stringer Stringer - 2" Width [369978]
+    4300046: Top Rail Type Rectangular - 2" x 2" [370007]
+    4300048: Floor Generic - 12" [370061]
+    4300050: Basic Wall Generic - 8" [371948]
+    4300052: Basic Wall Generic - 8" [372127]
+    4300054: Basic Wall Generic - 8" [372415]
+    4300056: Basic Wall Generic - 8" [372524]
+    4300058: Basic Wall Generic - 8" [372738]
+    4300060: Basic Wall Generic - 8" [372825]
+    4300062: Basic Wall Generic - 8" [372902]
+    4300064: Basic Wall Generic - 8" [373017]
+    4300066: Basic Wall Generic - 8" [373062]
+    4300068: Basic Wall Generic - 8" [373143]
+    4300070: Basic Wall Generic - 8" [373210]
+    4300072: Basic Wall Generic - 8" [373278]
+    4300074: Basic Wall Generic - 8" [375141]
+    4300076: Basic Wall Generic - 8" [375238]
+    4300078: Basic Wall Generic - 8" [375823]
+    4300080: Single-Flush 36" x 84" [376844]
+    4300082: Single-Flush 36" x 84" [376968]
+    4300084: Level Floor [30]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
